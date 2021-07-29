@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hkyd
 - 👀 I’m interested in learning new tools & technlogies
-- 🌱 I’m currently learning Kubernetes, Docker, Terraform.
+- 🌱 I’m currently learning Kubernetes, Docker, Terraform etc.
 - 💞️ I’m looking to collaborate on Devops related projects.
 - 📫 How to reach me ...with smile !!
 
